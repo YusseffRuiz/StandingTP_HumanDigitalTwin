@@ -19,8 +19,8 @@ Run the code.
 
 | Model name                                                                                                           |                                                                     |
 |----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
-| **MyoLeg69_TF_Passive**  <br>  - 20 Degree of Freedom (DoF) <br> - 69 muscles                                        | <img src="myoAmp_Stand/HelperFiles/Images/LateralImagePassive.jpg" width="200"> |
-| **MyoLeg71_TP_1/2>Motor<**  <br>  - 20 Degrees of Freedom (DoF) <br> - 71 muscles <br> - 1 or 2 electrical actuators | <img src="myoAmp_Stand/HelperFiles/Images/myoLeg_TP.png" width="200"> |
+| **MyoLeg69_TF_Passive**  <br>  - 20 Degree of Freedom (DoF) <br> - 69 muscles                                        | <img src="HelperFiles/Images/LateralImagePassive.jpg" width="200"> |
+| **MyoLeg71_TP_1/2>Motor<**  <br>  - 20 Degrees of Freedom (DoF) <br> - 71 muscles <br> - 1 or 2 electrical actuators | <img src="HelperFiles/Images/myoLeg_TP.png" width="200"> |
 
 Description of the models can be found [here](https://myosuite.readthedocs.io/en/latest/suite.html#models).
 
